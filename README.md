@@ -1,17 +1,14 @@
 # projets-python
-Un modeste repo pour témoigner de mon evolution sur python
+Voici un petit repo pour étayer mon projet de formation motivé et témoigner de mon évolution sur Python.
 
-Mon évolution qui s'est très vite arrêté a cause du bac.
-Il n'y a donc que quelques projets que j'ai faits au pour m'entrainer sur les notions 
-que j'apprenais, rien de fou je ne vous l'accorde mais ces fichiers ont le mérite d'exister.
+Évolution mise en stand by à cause du bac.
+Vous y trouverez quelques projets que j'ai faits pour m'entrainer sur les notions de programation
+que j'apprends. Rien de fou, je vous l'accorde, mais juste le reflet de mon parcours en *autodidacte*.
 J'ai terminé la formation openclassroom, j'imagine que c'est un bon début.
-je suis bien évidemment déçu du manque d'évolution de ce repo, mais il n'entache en rien mon envie d'apprendre et de persévérer dans cette discipline.
-tout ce que je demande c'est de pouvoir m'y consacrer à fond s'en être gêné par des choses aussi superflu que de la physique chimie.
+Je suis bien évidemment un conscient du manque d'activité de ce repo, mais il prouve mon envie d'apprendre et de persévérer dans cette discipline.
+En rejoignant votre cursus je veux m'y consacrer à fond sans être accaparé par d'autres matiéres telles que la physique/chimie ou une LV2 que j'estime non essentielles à mes projets.
+La perspective vidéo-ludique de votre licence m’intéresse aussi. Dès l’âge de 6 ans quand j’ai eu ma première DS, je me suis passionné pour les jeux vidéos et la culture du gaming. C’est aussi en créant des petites animations sur scratch que j’ai été sensibilisé pour la première fois à la création informatique. Bien qu’il ne soit pas encore question d’en faire mon métier, rajouter cette perspective à l’apprentissage me séduit énormément.
+Pour ce qui est de la nature de votre formation, j'ai bien assimilé l'importance de la programmation logicielle.
+Bien que l'utilisation avancée d'un ordinateur ne soit pas le sujet de votre formation, j'ai une certaine aisance avec cet outil, ayant été amené à l'utiliser depuis le début de ma scolarité du fait de ma dysgraphie et ma dysorthographie. 
 
-bref comme 1500 caractères ce n'est pas énorme je vais utiliser se "readme" pour étendre légèrement mon projet de formation motivé en essayant de pas me répéter.
-(en espérant très fort que je sois lu évidemment, même si c'est peu probable étant donné de nombre de demandes)
-pour ce qui est de la nature de la formation il me semble avoir bien assimilé l'importance de la programmation logicielle.
-J'ai aussi compris que l'utilisation avancée d'un ordinateur n'était pas le sujet de la formation, mais je tiens à vous rassurer sur ce point
-en précisent que (au delà de passer ma vie dessus) je l'utilise dans le cadre des études depuis plusieurs années.
-
-Ah! et je sais quitter vim btw.
+PS : je sais quitter vim btw.
